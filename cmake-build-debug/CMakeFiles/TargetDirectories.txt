@@ -1,0 +1,4 @@
+C:/Users/Dawid/CLionProjects/Tablice/cmake-build-debug/CMakeFiles/Tablice.dir
+C:/Users/Dawid/CLionProjects/Tablice/cmake-build-debug/CMakeFiles/Tablice2.dir
+C:/Users/Dawid/CLionProjects/Tablice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/Tablice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

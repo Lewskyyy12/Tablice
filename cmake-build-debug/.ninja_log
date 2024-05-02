@@ -1,0 +1,15 @@
+# ninja log v5
+0	195	7363476772080374	CMakeFiles/Tablice.dir/main.c.obj	7415ccc4846b5e03
+1	63	7363477556484736	CMakeFiles/Tablice.dir/Tablice2.c.obj	1ea0d606f0e5a5a2
+0	71	7363482042601124	build.ninja	9eaeafbd8d97e3d5
+1	61	7363479374229903	Tablice.exe	dd684a87a68705e9
+0	62	7363482142725088	CMakeFiles/Tablice2.dir/Tablice2.c.obj	5fef163246f8a52d
+62	123	7363482143315220	Tablice2.exe	3eff4db676d20e95
+1	60	7363483882042090	CMakeFiles/Tablice2.dir/Tablice2.c.obj	5fef163246f8a52d
+60	124	7363483882652223	Tablice2.exe	3eff4db676d20e95
+1	62	7363500528105453	CMakeFiles/Tablice2.dir/Tablice2.c.obj	5fef163246f8a52d
+63	130	7363500528745598	Tablice2.exe	3eff4db676d20e95
+1	63	7363500987455603	CMakeFiles/Tablice2.dir/Tablice2.c.obj	5fef163246f8a52d
+64	127	7363500988065743	Tablice2.exe	3eff4db676d20e95
+2	60	7363501244533906	CMakeFiles/Tablice2.dir/Tablice2.c.obj	5fef163246f8a52d
+60	121	7363501245114036	Tablice2.exe	3eff4db676d20e95
